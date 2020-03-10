@@ -1,6 +1,6 @@
 .profile{
-  width:600px;
-  height:700px;
+  width:500px;
+  height:800px;
   
 }
 body{
