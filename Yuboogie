@@ -12,3 +12,5 @@ a {
   flex-direction:row;
   justify-content:center;
 }
+.jumbostyle{
+color:Darkgoldenrod
