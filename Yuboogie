@@ -5,6 +5,7 @@
 }
 body{
   background-color:Darkgoldenrod;
+document.getElementById("demo").style.display = "none";
 }
 
 a {
